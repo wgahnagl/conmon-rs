@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["conmon_server"] = [{"text":"impl <a class=\"trait\" href=\"conmon_server/conmon/trait.Server.html\" title=\"trait conmon_server::conmon::Server\">Server</a> for <a class=\"struct\" href=\"conmon_server/struct.ConmonServerImpl.html\" title=\"struct conmon_server::ConmonServerImpl\">ConmonServerImpl</a>","synthetic":false,"types":["conmon_server::ConmonServerImpl"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

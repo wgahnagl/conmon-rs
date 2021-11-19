@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["_private",""],["version_params",""],["version_response",""],["version_results",""]],"struct":[["Client",""],["Owned",""],["ServerDispatch",""]],"trait":[["Server",""]],"type":[["VersionParams",""],["VersionResults",""]]});
